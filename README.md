@@ -56,3 +56,15 @@ This dashboard is helpful for:
 - **Sports Analysts –** Reviewing player and team performance trends
 - **Fans & Enthusiasts –** Exploring season-wise records
 - **Data Analysts –**  Learning Power BI visualization and DAX techniques
+
+## 📬 Connect with Me
+
+**Aadarsh Jaiswal**  
+🔗 [Portfolio](https://aadarshjaiswalvns.github.io/Data-Analytics-Portfolio)  
+💼 [LinkedIn](https://www.linkedin.com/in/aadarsh-jaiswal/)  
+📧 [Email](mailto:aadarshjaiswal.vns@gmail.com)
+
+---
+
+> If you like this project, consider giving it a ⭐ to support my work!
+
