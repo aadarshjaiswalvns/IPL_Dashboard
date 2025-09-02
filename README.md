@@ -14,7 +14,7 @@ It provides insights into team and player performances from **2008 to 2025**, co
 - `Players_data.csv` → Player statistics dataset  
 - `IPL_Matches_data.csv` → Match-level data  
 - `Dashboard_preview.png` → Screenshot of the final dashboard  
-
+- `Logos.png` → Images of the logos used in the dashboard 
 ---
 
 ## 📊 Dashboard Features  
