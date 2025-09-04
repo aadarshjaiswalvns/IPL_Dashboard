@@ -1,6 +1,6 @@
 # 🏏 IPL Analysis Dashboard (2008–2025)
 
-![Dashboard Preview](Dashboard_preview.png)
+![Dashboard Preview](Dashboard_preview.png) 
 
 ## 📌 Project Overview  
 This project is an **IPL Analysis Dashboard** built using **Power BI** with datasets in **Excel/CSV format**.  
