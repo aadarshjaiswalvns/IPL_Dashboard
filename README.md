@@ -54,7 +54,7 @@ It provides insights into team and player performances from **2008 to 2025**, co
 This dashboard is helpful for:
 
 - **Sports Analysts –** Reviewing player and team performance trends
-- **Fans & Enthusiasts –** Exploring season-wise records
+- **Fans & Enthusiasts –** Exploring season-wise records 
 - **Data Analysts –**  Learning Power BI visualization and DAX techniques
 
 ## 📬 Connect with Me
